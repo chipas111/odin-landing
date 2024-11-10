@@ -197,15 +197,6 @@ button.secondary {
     color: rgba(255, 255, 255, 0.7)
 }
 
-/*
-.small-button {
-    border: 2px solid white;
-    width: 150px;
-    height: 40px;
-    padding: 0 24px;
-}
- */
-
 .footer {
     height: 72px;
     display: flex;
